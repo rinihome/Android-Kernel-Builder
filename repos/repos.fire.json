@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Thyme-KernelSU-Proton",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "fire-KernelSU-Proton",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "branch": "fire-t-oss",
+      "device": "fire",
+      "defconfig": "fire_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -45,11 +45,11 @@
   },
   {
     "kernelSource": {
-      "name": "Thyme-Google",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "fire-Google",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "branch": "fire-t-oss",
+      "device": "fire",
+      "defconfig": "fire_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [

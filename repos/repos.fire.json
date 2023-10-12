@@ -5,7 +5,7 @@
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "fire-t-oss",
       "device": "fire",
-      "defconfig": "fire_defconfig"
+      "defconfig": "heat_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
